@@ -15,19 +15,17 @@ The data sources is a CSV file provided by the election bord: election_results.c
 ## Summary
 The analysis of the election results shows that 
 
-### Total number of votes cast
-369 711 votes
-### list of candidates who received votes :
-* Charles Casper Stockham
-* Diana DeGette
-* Raymon Antohony Doane
-### The Total number of votes each candidate received and Percentage of votes each candidate won
-* Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes
-* Diana DeGette: received 73.8% of the vote and 272,892 number of votes
-* Raymon Anthony Doane: received 3.1% of the vote and 11,606 number of votes
-### The winner of the election based on popular vote
-The winner of the election based on popular vote
-Winner of the election is Diana DeGette who received 73.8% of the vote and 272,892 number of votes
+* Total number of votes cast 369 711 votes
+* list of candidates who received votes :
+** Charles Casper Stockham
+** Diana DeGette
+** Raymon Antohony Doane
+* The Total number of votes each candidate received and Percentage of votes each candidate won
+** Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes
+** Diana DeGette: received 73.8% of the vote and 272,892 number of votes
+** Raymon Anthony Doane: received 3.1% of the vote and 11,606 number of votes
+* The winner of the election based on popular vote
+** Winner of the election is Diana DeGette who received 73.8% of the vote and 272,892 number of votes
 
 ## Challenge Overview
 ## Challenge Summary
