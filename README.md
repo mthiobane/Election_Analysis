@@ -15,7 +15,8 @@ The data sources is a CSV file provided by the election bord: election_results.c
 ## Summary
 The analysis of the election results shows that 
 
-###Total number of votes cast is : 369 711 votes
+### Total number of votes cast
+369 711 votes
 ### list of candidates who received votes :
 * Charles Casper Stockham
 * Diana DeGette
