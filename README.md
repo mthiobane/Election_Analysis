@@ -11,8 +11,8 @@ in this Analysis we will determine the :
 ## Resources
 This analysis has been done by using a powerful code editor name Visual Studio Code1.38.1, write our code and run it in to the terminal and python 3.6.1
 The data sources is a CSV file provided by the election bord: election_results.cvs
-
 ## Summary
+
 The analysis of the election results shows that 
 
 * Total number of votes cast 369 711 votes
