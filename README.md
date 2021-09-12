@@ -52,6 +52,7 @@ The data sources is a CSV file provided by the election bord: election_results.c
 The analysis of the election results shows that 
 
 * Total number of votes cast is : 369 711 votes
+
 * Breakdown of the number of votes and the percentage of total votes for each county in the precinct.
  * Jefferson received 10.5% of the vote and 38,855 number of votes
  * Denver received 82.8% of the vote and 306,055 number of votes
@@ -59,13 +60,13 @@ The analysis of the election results shows that
 
 * County had the largest number of votes ?
  * Denver have the largest number of votes
- * 
+
 * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
  * Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes
  * Diana DeGette: received 73.8% of the vote and 272,892 number of votes
  * Raymon Anthony Doane: received 3.1% of the vote and 11,606 number of votes
 
-* Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+* the candidate that won the election, and its vote count, and  percentage of the total votes?
 Winner of the election is Diana DeGette who received 73.8% of the vote and 272,892 number of votes
 
 
